@@ -31,6 +31,3 @@ Este es un proyecto simple donde puedes:
    ```
    http://localhost:3000
    ```
-
-## Estructura del proyecto
-
